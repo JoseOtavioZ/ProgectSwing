@@ -1,6 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Mudei na branch");
+
+        HelloSwing form = new HelloSwing();
+        form.setContentPane(form.painelPrincipal);
+        form.setTitle("Hello Panel");
+        form.setSize(500,500);
+        form.setVisible(true);
+
+
     }
 
 }

@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da80a497-c101-4cfd-8810-6457b41f907b" name="Changes" comment="Criação de classe TesteCommit">
+    <list default="true" id="da80a497-c101-4cfd-8810-6457b41f907b" name="Changes" comment="Mudei a branch">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloSwing.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloSwing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TesteCommit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -36,6 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -53,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684368298650</updated>
-      <workItem from="1684368299741" duration="2551000" />
+      <workItem from="1684368299741" duration="4917000" />
     </task>
     <task id="LOCAL-00001" summary="Criação de classe TesteCommit">
       <created>1684369967619</created>
@@ -62,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684369967619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deletei o teste">
+      <created>1684370907171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684370907171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mudei a branch">
+      <created>1684371036698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684371036698</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação de classe TesteCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de classe TesteCommit" />
+    <MESSAGE value="Deletei o teste" />
+    <MESSAGE value="Mudei a branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mudei a branch" />
   </component>
 </project>
